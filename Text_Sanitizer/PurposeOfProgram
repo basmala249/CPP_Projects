@@ -1,0 +1,11 @@
+This C++ program is designed to replace sensitive or unwanted words in text with alternative terms to prevent exposure to inappropriate content or maintain privacy. The program allows you to specify a list of sensitive words and their corresponding replacements, and then processes the text accordingly.
+
+Features :
+
+1 : Replaces specified sensitive words with predefined alternatives.
+
+2 : Customizable list of sensitive words and their replacements.
+
+3 : Handles large text inputs efficiently.
+
+4 : Easy to configure and extend for different use cases.
